@@ -8,6 +8,8 @@ Built for a hackathon demo, but structured like a real product: FastAPI backend,
 Tailwind frontend, SQLite database (swappable for Postgres), JWT auth, and a live analytics
 dashboard.
 
+
+Live link https://civictrack-frontend-hazel.vercel.app/dashboard
 ---
 
 ## Why this scores well
@@ -203,54 +205,6 @@ the backend is running. Key endpoints:
 ---
 
 ## License
-
-Built as a hackathon submission. Use freely for your own demo/coursework.
-
-
-# 🏙️ CivicTrack
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Made with React](https://img.shields.io/badge/react-18.0-blue?logo=react)
-![TailwindCSS](https://img.shields.io/badge/tailwind-css-blue?logo=tailwindcss)
-
-> 🚀 A modern full‑stack civic issue tracking platform — empowering citizens, staff, and admins to report, manage, and resolve civic problems seamlessly.
-
----
-
-## ✨ Features
-- 👤 **Role‑based login** — Citizen, Staff, Admin
-- 📝 **Complaint submission** with live backend API
-- 📊 **Dashboard analytics** for staff & admins
-- ⚡ **Fast frontend** built with React + Vite + Tailwind
-- 🔗 **Backend API** powered by FastAPI + Render hosting
-- 🌍 **Deployed on Vercel** for smooth CI/CD
-
----
-
-## 🖼️ Screenshots
-
-### 🔐 Login Page
-![Login](https://github.com/anmolugale13/CivicTrack/assets/login-demo.gif)
-
-### 📋 Complaint Dashboard
-![Dashboard](https://github.com/anmolugale13/CivicTrack/assets/dashboard-demo.gif)
-
----
-
-## ⚙️ Tech Stack
-- **Frontend** → React.js, Vite, TailwindCSS
-- **Backend** → FastAPI, Python, MySQL
-- **Deployment** → Vercel (frontend), Render (backend)
-- **Version Control** → Git & GitHub
-
----
-
-## 🚀 Getting Started
-
-### 1️⃣ Clone the repo
-```bash
-git clone https://github.com/anmolugale13/CivicTrack.git
-cd CivicTrack/frontend
+Built as a hackathon submission.This project is licensed under the MIT License. Use freely for your own demo/coursework.
 
 
